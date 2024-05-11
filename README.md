@@ -6,11 +6,10 @@ Soy desarrollador backend con experiencia en Java y TypeScript. Me apasiona el d
 - 🌱 Actualmente estudiando **GO**.
 - ⚡ Mi rol es Desarrollador en Java, TypeScript y React.
 
-Si te gusta lo que hago, tal vez consideres invitarme a un café o té 🥺👉👈
+<!--Si te gusta lo que hago, tal vez consideres invitarme a un café o té 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/manzodev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!---
 manzoDev/manzoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
