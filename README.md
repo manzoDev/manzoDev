@@ -1,6 +1,6 @@
 ### Hola a todos ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Soy desarrollador backend con experiencia en Java y TypeScript. Me apasiona el desarrollo de aplicaciones web con React y contribuir a proyectos de código abierto. ¡Siempre estoy listo para una aventura en el código!
+Soy desarrollador backend con experiencia en Java y TypeScript. Me apasiona el desarrollo de aplicaciones web con React y contribuir a proyectos de código abierto.
 
 - 👀 Interesado en arduino.
 - 🌱 Actualmente estudiando **GO**.
