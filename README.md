@@ -4,7 +4,7 @@ Soy desarrollador backend con experiencia en Java y TypeScript. Me apasiona el d
 
 - 👀 Interesado en arduino.
 - 🌱 Actualmente estudiando **GO**.
-- ⚡ Mi rol es Desarrollador en Java, TypeScript y React.
+- ⚡ Mi rol es Desarrollador en Java, TypeScript.
 
 <!--Si te gusta lo que hago, tal vez consideres invitarme a un café o té 🥺👉👈
 
